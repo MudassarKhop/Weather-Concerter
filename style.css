@@ -1,0 +1,18 @@
+body {
+	background-image: url(/ezgif.com-gif-maker.gif);
+	background-size: cover;
+	padding: 10%;
+}
+.container {
+	margin-top: 5%;
+	margin-left: 37%;
+	height: 60%;
+	width: 25%;
+	background: transparent;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	border-radius: 27px;
+}
